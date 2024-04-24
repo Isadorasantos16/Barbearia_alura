@@ -11,7 +11,7 @@ text-align: center;
 h1{
     text-align: center;
 background-color: rgb(238, 111, 255);
-
+border: 10px solid rgb(255, 173, 251) ;
 }
 
 
@@ -19,3 +19,4 @@ em strong {
 
     color: rgb(255, 89, 205);
 }
+

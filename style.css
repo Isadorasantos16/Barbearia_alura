@@ -50,4 +50,6 @@ ul {
     margin-right: 15%;
     border: 3px solid rgb(139, 50, 50);
     margin-top: 150px;
+    line-height: 1.5 ;
+    font-size: 18px;
 }

@@ -35,3 +35,11 @@ text-align: left;
     background-color: rgb(218, 113, 113);
 
 padding: 20px;}
+
+h2{
+    text-align: center;
+}
+
+.imagembeneficios{
+    width: 50%;
+}

@@ -1,19 +1,14 @@
-body{
-background-color: rgb(202, 133, 124);
-color: rgb(255, 255, 255);
-text-align: center;
-font-size: 18px;
+body {
+    background-color: rgb(202, 133, 124);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
 }
 
-
-
-
-
-h1{
+h1 {
     text-align: center;
-background-color: rgb(207, 118, 111);
-border: 10px solid rgb(173, 86, 86) ;
-
+    background-color: rgb(207, 118, 111);
+    border: 10px solid rgb(173, 86, 86);
 }
 
 
@@ -27,21 +22,22 @@ em strong {
     width: 70%;
 }
 
-.itens{
+.itens {
     font-style: italic;
-text-align: left;
+    text-align: left;
 }
 
-.Beneficios{
-   background-color: rgb(100, 56, 56);
-padding: 20px;}
+.Beneficios {
+    background-color: rgb(100, 56, 56);
+    padding: 20px;
+}
 
-h2{
+h2 {
     text-align: center;
     font-size: 35px;
 }
 
-.imagembeneficios{
+.imagembeneficios {
     width: 50%;
 }
 
@@ -50,9 +46,9 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    
+
     margin-top: 150px;
-    line-height: 2.5 ;
+    line-height: 2.5;
     font-size: 20px;
 }
 

@@ -42,13 +42,13 @@ h2 {
 }
 
 ul {
-    display: inline-block;
+    display: flex;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 
-    margin-top: 150px;
-    line-height: 2.5;
+    margin-top: 50px;
+    line-height: 1.0;
     font-size: 20px;
 }
 

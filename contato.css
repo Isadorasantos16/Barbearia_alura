@@ -47,6 +47,6 @@ select{
 }
 
 .enviar:hover {
-    background: rgb(95, 1, 81);
+    background: rgb(255, 114, 114);
     transform: scale(1.2);
 }
